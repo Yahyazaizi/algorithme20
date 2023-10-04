@@ -1,0 +1,12 @@
+Algorithme-ex-20
+
+Variables n, i, U : entier
+
+Début
+Ecrire ("Veuillez saisir la valeur de n: ")
+Lire (n)
+U <-- 6
+Pour i <-- 1 à n pas 1 faire
+U <-- 4 U + 10
+fn Pour
+Ecrire(" U", n "=" U)
